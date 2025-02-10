@@ -14,7 +14,10 @@ dependencies:
     sdk: flutter
   
   # Armazenamento Local
-  shared_preferences: 
+  shared_preferences:
+
+  # API Service
+  http:
 
 dev_dependencies:
   flutter_test:
